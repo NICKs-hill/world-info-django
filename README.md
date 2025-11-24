@@ -122,30 +122,6 @@ python manage.py runserver 0:8001
 
 # your server is up on port 8001
 ```
-Try opening [http://public_IP:8001](http://public_IP:8001) in the browser.
-Now you are good to go. if any issue check AWS security groups ```port``` is open or not.
 
-### 10. URLs
-#### Signup: [http://public_IP:8001/signup](http://public_IP:8001/signup)
-![Screenshot](/Screenshot/Screenshot_1.jpg)
-<br>
-#### Login: [http://public_IP:8001/login](http://public_IP:8001/login)
-![Screenshot](/Screenshot/Screenshot_2.jpg)
-<br>
-#### Mailtrap OTP  [https://mailtrap.io/inboxes/](https://mailtrap.io/inboxes/)
-![Screenshot](/Screenshot/Screenshot_3.jpg)
-<br>
-#### Home for search: [http://public_IP:8001/](http://public_IP:8001/)
-![Screenshot](/Screenshot/Screenshot_4.jpg)
-<br>
-#### Country page: [http://public_IP:8001/country/bangladesh](http://public_IP:8001/country/bangladesh)
-![Screenshot](/Screenshot/Screenshot_5.jpg)
-<br>
-#### Logout: [http://public_IP:8001/logout](http://public_IP:8001/logout)
-<br>
-<b>If you face any quarry for this project feel free to contact me. I will try my best. Thank you</b>
-
-```
-https://www.linkedin.com/in/bjnandi/
 ```
 
